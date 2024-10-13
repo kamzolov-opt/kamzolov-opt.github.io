@@ -183,4 +183,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Dmitry Kamzolov is a Research Associate at the Mohamed bin Zayed University of Artificial Intelligence ([MBZUAI](https://mbzuai.ac.ae). He is working at the Optimization and Machine Learning Lab (\href{https://optmllab.github.io}{OptML Lab}) under the supervision of Prof. [Martin Tak\'a\v{c}](https://scholar.google.com/citations?user=qKQD-2cAAAAJ&hl=en). The main focus of the research is implementable second-order, higher-order, and Quasi-Newton methods for convex and non-convex optimization. Also, he has interest in adaptive stochastic methods, distributed optimization, federated learning, and various applications.
