@@ -3,7 +3,7 @@
 title: Dmitry Kamzolov
 
 # Name pronunciation (optional)
-#name_pronunciation: Chien Shiung Wu
+#name_pronunciation: Dima
 
 # Full name (for SEO)
 first_name: Dmitry
@@ -34,17 +34,17 @@ profiles:
     url: 'mailto:kamzolov.opt@gmail.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://x.com/KamzolovDmitry
+ # - icon: brands/instagram
+ #   url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/kamzolov-opt
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/dmitry-kamzolov-7b4880a6/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=7ezSoS-hLVAC&hl=en
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0001-8488-9692
 
 interests:
   - Artificial Intelligence
