@@ -1,6 +1,6 @@
 ---
-title: Teaching
-summary: My courses
+title: Papers
+summary: Papers
 type: landing
 
 cascade:
@@ -11,12 +11,13 @@ cascade:
 
 sections:
   - block: collection
-    id: teaching
+    id: papers
     content:
-      title: Teaching
+      title: Papers
       filters:
         folders:
-          - teaching
+          - papers
+        exclude_featured: false
     design:
       view: article-grid
       columns: 2
