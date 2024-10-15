@@ -1,6 +1,6 @@
 ---
-title: Teaching
-summary: My courses
+title: Papers
+summary: Papers
 type: landing
 
 cascade:
