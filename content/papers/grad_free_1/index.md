@@ -26,7 +26,7 @@ publishDate: '2024-10-15T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Conference on System Dynamics and Control Processes ([SDCP2014](http://sdcp2014.imm.uran.ru/sdcp2014/Program_sdcp2014.pdf))*
+publication: In *Conference on System Dynamics and Control Processes (SDCP2014)*
 #publication_short: In *ICW*
 
 abstract: In the paper we generalize universal gradient method (Yu. Nesterov) to strongly convex case and to Intermediate gradient method (Devolder-Glineur-Nesterov). We also consider possible generalizations to stochastic and online context. We show how these results can be generalized to gradient-free method and method of random direction search. But the main ingridient of this paper is assumption about the oracle. We considered the oracle to be inexact.
@@ -35,7 +35,7 @@ abstract: In the paper we generalize universal gradient method (Yu. Nesterov) to
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-  - Zero-order Optimization
+  - Zero-Order Optimization
 
 # Display this page in the Featured widget?
 featured: false
@@ -44,7 +44,8 @@ featured: false
 links:
  - name: ArXiv
    url: https://arxiv.org/abs/1502.06259
-
+ - name: Program
+   url: http://sdcp2014.imm.uran.ru/sdcp2014/Program_sdcp2014.pdf
 url_pdf: ''
 url_code: ''
 url_dataset: ''
