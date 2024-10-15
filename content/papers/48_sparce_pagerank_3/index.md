@@ -30,7 +30,7 @@ doi: ''
 publication_types: ['article-journal']
 
 # Publication name and optional abbreviated publication name.
-publication: "*Trudy MIPT. (in Russian)*"
+publication: "*OMS*" [arxiv](https://arxiv.org/abs/1508.07607)
 #publication_short: In *ICW*
 
 abstract: In this paper we propose a new efficient approach for numerical calculation of equillibriums in multistage transport problems. In the very core of our approach lies the proper combination of Universal Gradient Method proposed by Yu. Nesterov (2013) and conception of inexact oracle (Devolder--Glineur--Nesterov, 2011). In particular our technique allows us to calculate Wasserstein's Barycenter in a fast manner (this results generalized M. Cuturi et al. (2014)).
@@ -47,7 +47,7 @@ featured: false
 # Custom links (uncomment lines below)
 links:
  - name: ArXiv
-   url: http://arxiv.org/abs/1506.00292
+   url: https://arxiv.org/abs/1508.07607
    
 url_pdf: ''
 url_code: ''
