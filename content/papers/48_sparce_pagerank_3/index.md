@@ -5,21 +5,20 @@ title: 'Efficient Numerical Methods to Solve Sparse Linear Equations with Applic
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
+  - Anton Anikin
   - Alexander Gasnikov
-  - Pavel Dvurechensky
+  - Alexander Gornov
   - admin
+  - Yury Maximov
   - Yurii Nesterov
-  - Petr Stetsyuk
-  - Alexandra Suvorikova
-  - Alexey Chernov
   
 # Author notes (optional)
 #author_notes:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 
-date: '2015-05-31'
-doi: ''
+date: '2015-08-30'
+doi: '10.1080/10556788.2020.1858297'
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: '2024-10-15T00:00:00Z'
@@ -30,10 +29,10 @@ doi: ''
 publication_types: ['article-journal']
 
 # Publication name and optional abbreviated publication name.
-publication: OMS [arxiv](https://arxiv.org/abs/1508.07607)
-#publication_short: In *ICW*
+publication: In *Optimization Methods and Software* 
+#publication_short: In *OMS*
 
-abstract: In this paper we propose a new efficient approach for numerical calculation of equillibriums in multistage transport problems. In the very core of our approach lies the proper combination of Universal Gradient Method proposed by Yu. Nesterov (2013) and conception of inexact oracle (Devolder--Glineur--Nesterov, 2011). In particular our technique allows us to calculate Wasserstein's Barycenter in a fast manner (this results generalized M. Cuturi et al. (2014)).
+abstract: Over the last two decades, the PageRank problem has received increased interest from the academic community as an efficient tool to estimate web-page importance in information retrieval. Despite numerous developments, the design of efficient optimization algorithms for the PageRank problem is still a challenge. This paper proposes three new algorithms with a linear time complexity for solving the problem over a bounded-degree graph. The idea behind them is to set up the PageRank as a convex minimization problem over a unit simplex, and then solve it using iterative methods with small iteration complexity. Our theoretical results are supported by an extensive empirical justification using real-world and simulated data.
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -46,10 +45,10 @@ featured: false
 
 # Custom links (uncomment lines below)
 links:
- - name: ArXiv
+ - name: arXiv:1508.07607
    url: https://arxiv.org/abs/1508.07607
    
-url_pdf: ''
+url_pdf: 'https://doi.org/10.1080/10556788.2020.1858297'
 url_code: ''
 url_dataset: ''
 url_poster: ''
