@@ -8,25 +8,29 @@ authors:
   - Alexander Gasnikov
   - Pavel Dvurechensky
   - admin
+  - Yurii Nesterov
+  - Petr Stetsyuk
+  - Alexandra Suvorikova
+  - Alexey Chernov
   
 # Author notes (optional)
 #author_notes:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 
-date: '2015-02-22T00:00:00Z'
+date: '2015-05-31'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2024-10-15T00:00:00Z'
+#publishDate: '2024-10-15T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['paper-conference']
+publication_types: ['article-journal']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Conference on System Dynamics and Control Processes (SDCP2014)*
+publication: "*Trudy MIPT. (in Russian)*"
 #publication_short: In *ICW*
 
 abstract: In the paper we generalize universal gradient method (Yu. Nesterov) to strongly convex case and to Intermediate gradient method (Devolder-Glineur-Nesterov). We also consider possible generalizations to stochastic and online context. We show how these results can be generalized to gradient-free method and method of random direction search. But the main ingridient of this paper is assumption about the oracle. We considered the oracle to be inexact.
@@ -35,7 +39,7 @@ abstract: In the paper we generalize universal gradient method (Yu. Nesterov) to
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-  - Zero-Order Optimization
+  - Universal Methods
 
 # Display this page in the Featured widget?
 featured: false
@@ -43,9 +47,7 @@ featured: false
 # Custom links (uncomment lines below)
 links:
  - name: ArXiv
-   url: https://arxiv.org/abs/1502.06259
- - name: Program
-   url: http://sdcp2014.imm.uran.ru/sdcp2014/Program_sdcp2014.pdf
+   url: http://arxiv.org/abs/1506.00292
    
 url_pdf: ''
 url_code: ''
