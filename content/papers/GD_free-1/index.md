@@ -41,9 +41,9 @@ tags:
 featured: false
 
 # Custom links (uncomment lines below)
-links:
- - name: ArXiv
-   url: http://arxiv.org/abs/1502.06259
+#links:
+# - name: ArXiv
+#   url: http://arxiv.org/abs/1502.06259
    
 url_pdf: ''
 #url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
@@ -66,12 +66,12 @@ url_pdf: ''
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+#projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: ""
+#slides: ""
 ---
