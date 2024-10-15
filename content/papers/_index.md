@@ -19,6 +19,5 @@ sections:
           - papers
         exclude_featured: false
     design:
-      view: article-grid
-      columns: 2
+      view: citation
 ---
