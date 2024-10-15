@@ -47,9 +47,18 @@ profiles:
     url: https://orcid.org/0000-0001-8488-9692
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Convex Optimization
+  - Non-Convex Optimization
+  - Second/High-order Methods
+  - Quasi-Newton Methods
+  - Adaptive Optimization Methods
+  - Machine Learning
+  - Stochastic Optimization
+  - Distributed Optimization
+  - Federated Learning
+  - Min-Max Optimization
+  - Causal Theory
+  - Zero-order Methods
 
 education:
   - area: PhD Artificial Intelligence
