@@ -19,5 +19,5 @@ sections:
           - papers
         exclude_featured: false
     design:
-      view: community/citation_count
+      view: citation_count
 ---
