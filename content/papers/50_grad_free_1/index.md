@@ -1,5 +1,5 @@
 ---
-title: 'Gradient and gradient-free methods for stochastic convex optimization with inexact oracle'
+title: 'Gradient and Gradient-Free Methods for Stochastic Convex Optimization with Inexact Oracle'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
