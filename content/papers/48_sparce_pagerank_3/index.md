@@ -1,5 +1,5 @@
 ---
-title: 'Universal Method with Inexact Oracle and its Applications for Searching Equilibriums in Multistage Transport Problems'
+title: 'Efficient Numerical Methods to Solve Sparse Linear Equations with Application to PageRank'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
