@@ -20,5 +20,5 @@ sections:
           - papers
         exclude_featured: false
     design:
-        view: stream
+        view: citation
 ---
