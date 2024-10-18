@@ -7,7 +7,7 @@ cascade:
   - _target:
       kind: page
     params:
-      show_breadcrumb: false
+      show_breadcrumb: true
 
 sections:
   - block: collection
@@ -20,4 +20,5 @@ sections:
         exclude_featured: false
     design:
       view: citation
+      flip_alt_rows: true
 ---
