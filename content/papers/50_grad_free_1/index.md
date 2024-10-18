@@ -42,7 +42,7 @@ featured: false
 
 # Custom links (uncomment lines below)
 links:
- - name: ArXiv
+ - name: ArXiv:1502.06259
    url: https://arxiv.org/abs/1502.06259
  - name: Program
    url: http://sdcp2014.imm.uran.ru/sdcp2014/Program_sdcp2014.pdf

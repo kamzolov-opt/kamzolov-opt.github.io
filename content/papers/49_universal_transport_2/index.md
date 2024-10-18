@@ -46,7 +46,7 @@ featured: false
 
 # Custom links (uncomment lines below)
 links:
- - name: ArXiv
+ - name: ArXiv:1506.00292
    url: http://arxiv.org/abs/1506.00292
    
 url_pdf: ''
