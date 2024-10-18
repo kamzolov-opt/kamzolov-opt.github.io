@@ -14,11 +14,12 @@ sections:
     id: papers
     content:
       title: Papers
+      text: 'Publications are presented in descending order based on their online availability date.'
       count: 0
       filters:
         folders:
           - papers
         exclude_featured: false
     design:
-      view: count-citation
+      view: citation
 ---
