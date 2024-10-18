@@ -14,12 +14,11 @@ sections:
     id: papers
     content:
       title: Papers
-      
       count: 0
       filters:
         folders:
           - papers
         exclude_featured: false
     design:
-      view: citation
+      view: count-citation
 ---
