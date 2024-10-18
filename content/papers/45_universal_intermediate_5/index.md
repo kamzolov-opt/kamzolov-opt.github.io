@@ -1,24 +1,21 @@
 ---
-title: 'Efficient Numerical Methods to Solve Sparse Linear Equations with Application to PageRank'
+title: 'Universal Intermediate Gradient Method for Convex Problems with Inexact Oracle'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Anton Anikin
-  - Alexander Gasnikov
-  - Alexander Gornov
   - admin
-  - Yury Maximov
-  - Yurii Nesterov
+  - Pavel Dvurechensky
+  - Alexander Gasnikov
   
 # Author notes (optional)
 #author_notes:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 
-date: '2015-08-30'
-doi: '10.1080/10556788.2020.1858297'
+date: '2017-12-17'
+doi: '10.1080/10556788.2019.1711079'
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: '2024-10-15T00:00:00Z'
@@ -32,7 +29,7 @@ publication_types: ['article-journal']
 publication: In *Optimization Methods and Software* 
 #publication_short: In *OMS*
 
-abstract: Over the last two decades, the PageRank problem has received increased interest from the academic community as an efficient tool to estimate web-page importance in information retrieval. Despite numerous developments, the design of efficient optimization algorithms for the PageRank problem is still a challenge. This paper proposes three new algorithms with a linear time complexity for solving the problem over a bounded-degree graph. The idea behind them is to set up the PageRank as a convex minimization problem over a unit simplex, and then solve it using iterative methods with small iteration complexity. Our theoretical results are supported by an extensive empirical justification using real-world and simulated data.
+abstract: In this paper, we propose new first-order methods for minimization of a convex function on a simple convex set. We assume that the objective function is a composite function given as a sum of a simple convex function and a convex function with inexact Hölder-continuous subgradient. We propose Universal Intermediate Gradient Method. Our method enjoys both the universality and intermediateness properties. Following the ideas of Nesterov (Math. Program. 152 (2015), pp. 381–404) on Universal Gradient Methods, our method does not require any information about the Hölder parameter and constant and adjusts itself automatically to the local level of smoothness. On the other hand, in the spirit of the Intermediate Gradient Method proposed by Devolder et al. (CORE Discussion Paper 2013/17, 2013), our method is intermediate in the sense that it interpolates between Universal Gradient Method and Universal Fast Gradient Method. This allows to balance the rate of convergence of the method and rate of the oracle error accumulation. Under the additional assumption of strong convexity of the objective, we show how the restart technique can be used to obtain an algorithm with faster rate of convergence.
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -45,8 +42,8 @@ featured: false
 
 # Custom links (uncomment lines below)
 links:
- - name: arXiv:1508.07607
-   url: https://arxiv.org/abs/1508.07607
+ - name: arXiv:1712.06036
+   url: https://arxiv.org/abs/1712.06036
    
 url_pdf: ''
 url_code: ''
@@ -54,7 +51,7 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://doi.org/10.1080/10556788.2020.1858297'
+url_source: 'https://www.tandfonline.com/doi/full/10.1080/10556788.2019.1711079'
 url_video: ''
 
 # Featured image
