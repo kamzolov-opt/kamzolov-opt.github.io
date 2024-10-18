@@ -20,5 +20,5 @@ sections:
         exclude_featured: false
     design:
       view: citation
-      flip_alt_rows: false
+      count: 0
 ---
