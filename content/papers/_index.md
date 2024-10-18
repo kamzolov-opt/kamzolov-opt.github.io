@@ -19,6 +19,6 @@ sections:
           - papers
         exclude_featured: false
     design:
-      view: list
-      flip_alt_rows: true
+      view: citation
+      flip_alt_rows: false
 ---

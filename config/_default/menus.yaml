@@ -7,9 +7,6 @@ main:
   - name: Bio
     url: /
     weight: 10
-  - name: Papers2
-    url: /#papers
-    weight: 11
   - name: Talks
     url: /#talks
     weight: 12
