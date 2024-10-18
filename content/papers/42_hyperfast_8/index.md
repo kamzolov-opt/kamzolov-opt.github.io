@@ -13,7 +13,7 @@ authors:
 #  - 'Equal contribution'
 
 date: '2020-02-20'
-doi: '10.1007/978-3-030-62867-3_13'
+doi: '10.1007/978-3-030-58657-7_15'
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: '2024-10-15T00:00:00Z'
