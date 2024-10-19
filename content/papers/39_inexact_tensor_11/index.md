@@ -9,7 +9,7 @@ authors:
   - admin
   - Pavel Dvurechensky
   - Alexander Gasnikov
-  - Martin Takac
+  - Martin Takáč
   
 # Author notes (optional)
 #author_notes:
