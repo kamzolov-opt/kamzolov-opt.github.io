@@ -9,7 +9,7 @@ authors:
   - admin
   - Pavel Dvurechensky
   - Alexander Gasnikov
-  - Martin Tak\'a\v{c}
+  - Martin Takac
   
 # Author notes (optional)
 #author_notes:
