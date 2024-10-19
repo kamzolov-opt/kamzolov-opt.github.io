@@ -1,0 +1,13 @@
+@article{dvurechensky2022hyperfast,
+   abstract = {Statistical preconditioning enables fast methods for distributed large-scale empirical risk minimization problems. In this approach, multiple worker nodes compute gradients in parallel, which are then used by the central node to update the parameter by solving an auxiliary (preconditioned) smaller-scale optimization problem. The recently proposed Statistically Preconditioned Accelerated Gradient (SPAG) method [1] has complexity bounds superior to other such algorithms but requires an exact solution for computationally intensive auxiliary optimization problems at every iteration. In this paper, we propose an Inexact SPAG (InSPAG) and explicitly characterize the accuracy by which the corresponding auxiliary subproblem needs to be solved to guarantee the same convergence rate as the exact method. We build our results by first developing an inexact adaptive accelerated Bregman proximal gradient method for general optimization problems under relative smoothness and strong convexity assumptions, which may be of independent interest. Moreover, we explore the properties of the auxiliary problem in the InSPAG algorithm assuming Lipschitz third-order derivatives and strong convexity. For such problem class, we develop a linearly convergent Hyperfast second-order method and estimate the total complexity of the InSPAG method with hyperfast auxiliary problem solver. Finally, we illustrate the proposed method's practical efficiency by performing large-scale numerical experiments on logistic regression models. To the best of our knowledge, these are the first empirical results on implementing high-order methods on large-scale problems, as we work with data where the dimension is of the order of 3 million, and the number of samples is 700 million.},
+   author = {Pavel Dvurechensky and Dmitry Kamzolov and Aleksandr Lukashevich and Soomin Lee and Erik Ordentlich and César A Uribe and Alexander Gasnikov},
+   doi = {https://doi.org/10.1016/j.ejco.2022.100045},
+   issn = {2192-4406},
+   journal = {EURO Journal on Computational Optimization},
+   keywords = {Distributed optimization,Empirical risk minimization,Statistical preconditioning,Tensor optimization methods},
+   pages = {100045},
+   title = {Hyperfast second-order local solvers for efficient statistically preconditioned distributed optimization},
+   volume = {10},
+   url = {https://www.sciencedirect.com/science/article/pii/S2192440622000211},
+   year = {2022},
+}
