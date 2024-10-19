@@ -1,19 +1,26 @@
 ---
-title: 'Meta'
+title: 'Accelerated Meta-Algorithm for Convex Optimization Problems'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
+  - Alexander Gasnikov
+  - Darina Dvinskikh
+  - Pavel Dvurechensky
   - admin
+  - Vladislav Matykhin
+  - Dmitry Pasechnyk
+  - Nazarii Tupitsa
+  - Alexei Chernov
   
 # Author notes (optional)
 #author_notes:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 
-date: '2020-02-20'
-doi: '10.1007/978-3-030-58657-7_15'
+date: '2020-04-18'
+doi: '10.1134/S096554252101005X'
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: '2024-10-15T00:00:00Z'
@@ -24,24 +31,24 @@ doi: '10.1007/978-3-030-58657-7_15'
 publication_types: ['article-journal']
 
 # Publication name and optional abbreviated publication name.
-publication: "In *Lecture Notes in Computer Science*"
+publication: "In *Computational Mathematics and Mathematical Physics*"
 #publication_short: In *LNCS*
 
-abstract: In this paper, we present a new Hyperfast Second-Order Method with convergence rate $O(N^\{-5\})$ up to a logarithmic factor for the convex function with Lipschitz 3rd derivative. This method based on two ideas. The first comes from the superfast second-order scheme of Yu. Nesterov (CORE Discussion Paper 2020/07, 2020). It allows implementing the third-order scheme by solving subproblem using only the second-order oracle. This method converges with rate $O(N^\{-4\})$. The second idea comes from the work of Kamzolov et al. (arXiv:2002.01004). It is the inexact near-optimal third-order method. In this work, we improve its convergence and merge it with the scheme of solving subproblem using only the second-order oracle. As a result, we get convergence rate $O(N^\{-5\})$ up to a logarithmic factor. This convergence rate is near-optimal and the best known up to this moment.
+abstract: An envelope called an accelerated meta-algorithm is proposed. Based on the envelope, accelerated methods for solving convex unconstrained minimization problems in various formulations can be obtained from nonaccelerated versions in a unified manner. Quasi-optimal algorithms for minimizing smooth functions with Lipschitz continuous derivatives of arbitrary order and for solving smooth minimax problems are given as applications. The proposed envelope is more general than existing ones. Moreover, better convergence estimates can be obtained in the case of this envelope and better efficiency can be achieved in practice for a number of problem formulations.
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-  - Second-Order Methods
+  - First-Order Methods
 
 # Display this page in the Featured widget?
 featured: false
 
 # Custom links (uncomment lines below)
 links:
- - name: arXiv:2002.09050
-   url: https://arxiv.org/abs/2002.09050
+ - name: arXiv:2004.08691
+   url: https://arxiv.org/abs/2004.08691
    
 url_pdf: ''
 url_code: ''
@@ -49,7 +56,7 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://link.springer.com/chapter/10.1007/978-3-030-58657-7_15'
+url_source: 'https://link.springer.com/article/10.1134/S096554252101005X'
 url_video: ''
 
 # Featured image
