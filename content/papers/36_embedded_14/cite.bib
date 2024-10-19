@@ -1,0 +1,11 @@
+@inproceedings{yudin2021embedded,
+   abstract = {The paper presents research on a set of “classical” machine learning algorithms for tiny (microbatch, i.e., batch size equal to or less than 128) embedded online machine learning on ARM processor boards with hard memory limits and a tiny memory footprint while running on a single CPU without multithreading. We propose mathematical improvements to algorithms as well as other programming optimizations. In the presence of evolving data streams, we present an adaptation of the Gradient Boosting Decision Trees (GBDT) learning algorithm for classification tasks, the eXtreme Gradient Boosting (XGBoost, XGB) and the Random Forest (RF) learning algorithms for supervised anomaly detection tasks, and the Extended Isolation Forest (EIF) learning algorithm for unsupervised anomaly detection tasks. In this scenario, as new data is added over time, the connection between the class and the characteristics may shift, resulting in concept drift. The proposed technique generates new members of the ensemble from microbatches and/or batches of data for each algorithm as new data becomes available. The maximum ensemble size is specified, but learning does not stop when it reaches this size because the ensemble is constantly updated with new data to ensure compatibility with the current notion. We tested our technique on real-world data and compared it to the original batch-incremental learning algorithms for data streams. Our implementations gain a speedup in inference up to several times even demonstrating prediction quality improvement by 0.1-0.3 in terms of F_1 measure in some cases.},
+   author = {Nikita Yudin and Dmirty Kamzolov and Vadim Sinolits and Pavel Golovkin and Alexey Erchenko},
+   doi = {10.1109/EnT50460.2021.9681738},
+   booktitle = {2021 International Conference Engineering and Telecommunication (En&T)},
+   keywords = {Radio frequency;Machine learning algorithms;Memory management;Programming;Boosting;Prediction algorithms;Classification algorithms;Ensembles;Gradient Boosting;Online Optimization;Anomaly detection;Classification;ARM architecture},
+   month = {11},
+   pages = {1-5},
+   title = {Embedded Online Machine Learning},
+   year = {2021},
+}
