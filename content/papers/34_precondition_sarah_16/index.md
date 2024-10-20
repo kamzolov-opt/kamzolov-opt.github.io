@@ -1,27 +1,24 @@
 ---
-title: 'The Power of First-Order Smooth Optimization for Black-Box Non-Smooth Problems'
+title: 'Stochastic Gradient Methods with Preconditioned Updates'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Alexander Gasnikov
-  - Anton Novitskii
-  - Vasilii Novitskii
-  - Farshed Abdukhakimov
-  - admin
+  - Abdurakhmon Sadiev
   - Aleksandr Beznosikov
+  - Abdulla Jasem Almansoori
+  - admin
+  - Rachael Tappenden
   - Martin Takáč
-  - Pavel Dvurechensky
-  - Bin Gu
   
 # Author notes (optional)
 #author_notes:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 
-date: '2022-01-28'
-doi: ''
+date: '2022-06-01'
+doi: '10.1007/s10957-023-02365-3'
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: '2024-10-15T00:00:00Z'
@@ -29,27 +26,27 @@ doi: ''
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['conference']
+publication_types: ['article-journal']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Proceedings of the 39th International Conference on Machine Learning (ICML 2022)* 
-publication_short: In *ICML 2022*
+publication: In *Journal of Optimization Theory and Applications* 
+publication_short: In *JOTA*
 
-abstract: Gradient-free/zeroth-order methods for black-box convex optimization have been extensively studied in the last decade with the main focus on oracle calls complexity. In this paper, besides the oracle complexity, we focus also on iteration complexity, and propose a generic approach that, based on optimal first-order methods, allows to obtain in a black-box fashion new zeroth-order algorithms for non-smooth convex optimization problems. Our approach not only leads to optimal oracle complexity, but also allows to obtain iteration complexity similar to first-order methods, which, in turn, allows to exploit parallel computations to accelerate the convergence of our algorithms. We also elaborate on extensions for stochastic optimization problems, saddle-point problems, and distributed optimization.
+abstract: This work considers the non-convex finite-sum minimization problem. There are several algorithms for such problems, but existing methods often work poorly when the problem is badly scaled and/or ill-conditioned, and a primary goal of this work is to introduce methods that alleviate this issue. Thus, here we include a preconditioner based on Hutchinson’s approach to approximating the diagonal of the Hessian and couple it with several gradient-based methods to give new ‘scaled’ algorithms Scaled SARAH and Scaled L-SVRG. Theoretical complexity guarantees under smoothness assumptions are presented. We prove linear convergence when both smoothness and the PL-condition are assumed. Our adaptively scaled methods use approximate partial second-order curvature information and, therefore, can better mitigate the impact of badly scaled problems. This improved practical performance is demonstrated in the numerical experiments also presented in this work.
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-  - Zero-Order Methods
+  - First-Order Methods
 
 # Display this page in the Featured widget?
 featured: false
 
 # Custom links (uncomment lines below)
-links:
- - name: arXiv:2201.12289
-   url: https://arxiv.org/abs/2201.12289
+#links:
+# - name: arXiv:2103.14392
+#   url: https://arxiv.org/abs/2103.14392
    
 url_pdf: ''
 url_code: ''
@@ -57,7 +54,7 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://proceedings.mlr.press/v162/gasnikov22a.html'
+url_source: 'https://link.springer.com/article/10.1007/s10957-023-02365-3'
 url_video: ''
 
 # Featured image
