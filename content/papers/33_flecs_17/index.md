@@ -1,15 +1,14 @@
 ---
-title: 'Stochastic Gradient Methods with Preconditioned Updates'
+title: 'FLECS: A Federated Learning Second-Order Framework via Compression and Sketching'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Abdurakhmon Sadiev
-  - Aleksandr Beznosikov
-  - Abdulla Jasem Almansoori
+  - Artem Agafonov
   - admin
   - Rachael Tappenden
+  - Alexander Gasnikov
   - Martin Takáč
   
 # Author notes (optional)
@@ -17,8 +16,8 @@ authors:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 
-date: '2022-06-01'
-doi: '10.1007/s10957-023-02365-3'
+date: '2022-06-04'
+doi: ''
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: '2024-10-15T00:00:00Z'
@@ -29,11 +28,11 @@ doi: '10.1007/s10957-023-02365-3'
 publication_types: ['article-journal']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Journal of Optimization Theory and Applications* 
-publication_short: In *JOTA*
+publication: "preprint, under review"
+#publication_short: In *JOTA*
 
-abstract: This work considers the non-convex finite-sum minimization problem. There are several algorithms for such problems, but existing methods often work poorly when the problem is badly scaled and/or ill-conditioned, and a primary goal of this work is to introduce methods that alleviate this issue. Thus, here we include a preconditioner based on Hutchinson’s approach to approximating the diagonal of the Hessian and couple it with several gradient-based methods to give new ‘scaled’ algorithms Scaled SARAH and Scaled L-SVRG. Theoretical complexity guarantees under smoothness assumptions are presented. We prove linear convergence when both smoothness and the PL-condition are assumed. Our adaptively scaled methods use approximate partial second-order curvature information and, therefore, can better mitigate the impact of badly scaled problems. This improved practical performance is demonstrated in the numerical experiments also presented in this work.
-
+abstract: Inspired by the recent work FedNL (Safaryan et al, FedNL Making Newton-Type Methods Applicable to Federated Learning), we propose a new communication efficient second-order framework for Federated learning, namely FLECS. The proposed method reduces the high-memory requirements of FedNL by the usage of an L-SR1 type update for the Hessian approximation which is stored on the central server. A low dimensional `sketch' of the Hessian is all that is needed by each device to generate an update, so that memory costs as well as number of Hessian-vector products for the agent are low. Biased and unbiased compressions are utilized to make communication costs also low. Convergence guarantees for FLECS are provided in both the strongly convex, and nonconvex cases, and local linear convergence is also established under strong convexity. Numerical experiments confirm the practical benefits of this new FLECS algorithm.
+          
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
@@ -45,8 +44,8 @@ featured: false
 
 # Custom links (uncomment lines below)
 links:
- - name: arXiv:2206.00285
-   url: https://arxiv.org/abs/2206.00285
+ - name: arXiv:2206.02009
+   url: https://arxiv.org/abs/2206.02009
    
 url_pdf: ''
 url_code: ''
@@ -54,7 +53,7 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://link.springer.com/article/10.1007/s10957-023-02365-3'
+url_source: ''
 url_video: ''
 
 # Featured image
