@@ -39,7 +39,6 @@ abstract: "We present a new accelerated stochastic second-order method that is r
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-  - Quasi-Newton Methods
   - Second-Order Methods
 
 # Display this page in the Featured widget?
