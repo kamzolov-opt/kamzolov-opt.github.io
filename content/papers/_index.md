@@ -14,7 +14,7 @@ sections:
     id: papers
     content:
       title: Papers
-      text: 'Publications are presented in descending order based on their online availability date.'
+      text: 'The papers are listed in the order they appeared online, starting with the most recent.'
       count: 0
       filters:
         folders:
