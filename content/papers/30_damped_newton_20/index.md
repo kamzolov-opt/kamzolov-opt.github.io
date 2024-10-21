@@ -1,23 +1,24 @@
 ---
-title: 'Exploiting Higher-Order Derivatives in Convex Optimization Methods'
+title: 'A Damped Newton Method Achieves Global $O(\frac{1}{k^2})$ and Local Quadratic Convergence Rate'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
+  - Slavomír Hanzely
   - admin
+  - Dmitry Pasechnyuk
   - Alexander Gasnikov
-  - Pavel Dvurechensky
-  - Artem Agafonov
+  - Peter Richtárik
   - Martin Takáč
   
 # Author notes (optional)
-#author_notes:
-#  - 'Equal contribution'
-#  - 'Equal contribution'
+author_notes:
+  - 'Equal contribution'
+  - 'Equal contribution'
 
-date: '2022-08-28'
-doi: '10.1007/978-3-030-54621-2_858-1'
+date: '2022-10-31'
+doi: ''
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: '2024-10-15T00:00:00Z'
@@ -25,27 +26,27 @@ doi: '10.1007/978-3-030-54621-2_858-1'
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['book']
+publication_types: ['conference']
 
 # Publication name and optional abbreviated publication name.
-publication: "In *Encyclopedia of Optimization*"
-#publication_short: "In *MICCAI 2022*"
+publication: "In *NeurIPS 2022: Advances in Neural Information Processing Systems 35*"
+publication_short: "In *NeurIPS 2022*"
 
-abstract: "Exploiting higher-order derivatives in convex optimization is known at least since 1970's. In each iteration higher-order (also called tensor) methods minimize a regularized Taylor expansion of the objective function, which leads to faster convergence rates if the corresponding higher-order derivative is Lipschitz-continuous. Recently a series of lower iteration complexity bounds for such methods were proved, and a gap between upper an lower complexity bounds was revealed. Moreover, it was shown that such methods can be implementable since the appropriately regularized Taylor expansion of a convex function is also convex and, thus, can be minimized in polynomial time. Only very recently an algorithm with optimal convergence rate 1/k(3p+1)/2 was proposed for minimizing convex functions with Lipschitz p-th derivative. For convex functions with Lipschitz third derivative, these developments allowed to propose a second-order method with convergence rate 1/k5, which is faster than the rate 1/k3.5 of existing second-order methods."
+abstract: "In this paper, we present the first stepsize schedule for Newton method resulting in fast global and local convergence guarantees. In particular, we a) prove an $O(1/k^2)$ global rate, which matches the state-of-the-art global rate of cubically regularized Newton method of Polyak and Nesterov (2006) and of regularized Newton method of Mishchenko (2021), and the later variant of Doikov and Nesterov (2021), b) prove a local quadratic rate, which matches the best-known local rate of second-order methods, and c) our stepsize formula is simple, explicit, and does not require solving any subproblem. Our convergence proofs hold under affine-invariant assumptions closely related to the notion of self-concordance. Finally, our method has competitive performance when compared to existing baselines which share the same fast global convergence guarantees."
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-  - Second-Order Optimization
+  - Second-Order Methods
 
 # Display this page in the Featured widget?
 featured: false
 
 # Custom links (uncomment lines below)
 links:
- - name: arXiv:2208.13190
-   url: https://arxiv.org/abs/2208.13190
+ - name: arXiv:2211.00140
+   url: https://arxiv.org/abs/2211.00140
    
 url_pdf: ''
 url_code: ''
@@ -53,7 +54,7 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://link.springer.com/referenceworkentry/10.1007/978-3-030-54621-2_858-1'
+url_source: 'https://proceedings.neurips.cc/paper_files/paper/2022/hash/a1f0c0cd6caaa4863af5f12608edf63e-Abstract-Conference.html'
 url_video: ''
 
 # Featured image

@@ -1,14 +1,13 @@
 ---
-title: 'FLECS: A Federated Learning Second-Order Framework via Compression and Sketching'
+title: 'Accelerated Adaptive Cubic Regularized Quasi-Newton Methods'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Artem Agafonov
   - admin
-  - Rachael Tappenden
-  - Alexander Gasnikov
+  - Klea Ziu
+  - Artem Agafonov
   - Martin Takáč
   
 # Author notes (optional)
@@ -16,7 +15,7 @@ authors:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 
-date: '2022-06-04'
+date: '2023-02-10'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -28,24 +27,25 @@ doi: ''
 publication_types: ['preprint']
 
 # Publication name and optional abbreviated publication name.
-publication: "preprint, under review"
-#publication_short: In *JOTA*
+publication: "*Preprint, Under Review*"
+#publication_short: "In *MICCAI 2022*"
 
-abstract: Inspired by the recent work FedNL (Safaryan et al, FedNL Making Newton-Type Methods Applicable to Federated Learning), we propose a new communication efficient second-order framework for Federated learning, namely FLECS. The proposed method reduces the high-memory requirements of FedNL by the usage of an L-SR1 type update for the Hessian approximation which is stored on the central server. A low dimensional `sketch' of the Hessian is all that is needed by each device to generate an update, so that memory costs as well as number of Hessian-vector products for the agent are low. Biased and unbiased compressions are utilized to make communication costs also low. Convergence guarantees for FLECS are provided in both the strongly convex, and nonconvex cases, and local linear convergence is also established under strong convexity. Numerical experiments confirm the practical benefits of this new FLECS algorithm.
-          
+abstract: "In this paper, we propose the first Quasi-Newton method with a global convergence rate of $O(k^{−1})$ for general convex functions. Quasi-Newton methods, such as BFGS, SR-1, are well-known for their impressive practical performance. However, they may be slower than gradient descent for general convex functions, with the best theoretical rate of $O(k^{−1/3})$. This gap between impressive practical performance and poor theoretical guarantees was an open question for a long period of time. In this paper, we make a significant step to close this gap. We improve upon the existing rate and propose the Cubic Regularized Quasi-Newton Method with a convergence rate of $O(k^{−1})$. The key to achieving this improvement is to use the Cubic Regularized Newton Method over the Damped Newton Method as an outer method, where the Quasi-Newton update is an inexact Hessian approximation. Using this approach, we propose the first Accelerated Quasi-Newton method with a global convergence rate of O(k−2) for general convex functions. In special cases where we can improve the precision of the approximation, we achieve a global convergence rate of $O(k^{−3})$, which is faster than any first-order method. To make these methods practical, we introduce the Adaptive Inexact Cubic Regularized Newton Method and its accelerated version, which provide real-time control of the approximation error. We show that the proposed methods have impressive practical performance and outperform both first and second-order methods."
+
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-  - First-Order Methods
+  - Quasi-Newton Methods
+  - Second-Order Methods
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 links:
- - name: arXiv:2206.02009
-   url: https://arxiv.org/abs/2206.02009
+ - name: arXiv:2302.04987
+   url: https://arxiv.org/abs/2302.04987
    
 url_pdf: ''
 url_code: ''
