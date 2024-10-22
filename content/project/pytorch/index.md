@@ -1,13 +1,12 @@
 ---
-title: PyTorch
-date: 2023-10-26
-external_link: https://github.com/pytorch/pytorch
+title: OPTAMI
+date: 2024-10-01
+external_link: https://github.com/optami/optami
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - OPTAMI
+  - PyTorch
 ---
 
-PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.
+This package is dedicated to second-order optimization methods. All the methods can be used similarly to standard PyTorch optimizers.
 
 <!--more-->
