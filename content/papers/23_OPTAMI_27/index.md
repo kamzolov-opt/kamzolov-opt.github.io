@@ -48,7 +48,7 @@ links:
    url: https://arxiv.org/abs/2410.04083
    
 url_pdf: ''
-url_code: ''
+url_code: 'https://github.com/OPTAMI/OPTAMI'
 url_dataset: ''
 url_poster: ''
 url_project: ''
