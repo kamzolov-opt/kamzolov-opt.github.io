@@ -104,6 +104,7 @@ work:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      
   - position: Research Assistant
     company_name: Moscow Institute of Physics and Technology
     company_url: ''
@@ -111,7 +112,7 @@ work:
     date_start: 2016-09-01
     date_end: 2017-09-01
     summary: |
-      "Laboratory of Advanced Combinatorics and Network Applications, Moscow Institute of Physics and Technology [https://mipt.ru](MIPT), Moscow, Russia. Supervisor: [https://scholar.google.com/citations?user=AmeE8qkAAAAJ&hl=en](Alexander Gasnikov). Head: [Andrei Raigorodskii](https://scholar.google.com/citations?user=fzY42_QAAAAJ&hl=en)."
+      "Laboratory of Advanced Combinatorics and Network Applications, Moscow Institute of Physics and Technology (MIPT), Moscow, Russia. Supervisor: Alexander Gasnikov. Head: Andrei Raigorodskii.
 
   - position: Research Assistant
     company_name: Moscow Institute of Physics and Technology
@@ -120,7 +121,7 @@ work:
     date_start: 2014-09-01
     date_end: 2016-09-01
     summary: |
-      Laboratory of Structural Methods of Data Analysis in Predictive Modeling (PreMoLab), Moscow Institute of Physics and Technology ([MIPT](https://mipt.ru)), Moscow, Russia. Supervisor: [https://scholar.google.com/citations?user=AmeE8qkAAAAJ&hl=en](Alexander Gasnikov). Head: [Vladimir Spokoiny](https://scholar.google.com/citations?user=edIy5-0AAAAJ&hl=en).
+      Laboratory of Structural Methods of Data Analysis in Predictive Modeling (PreMoLab), Moscow Institute of Physics and Technology (MIPT), Moscow, Russia. Supervisor: Alexander Gasnikov. Head: Vladimir Spokoiny.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
