@@ -49,7 +49,7 @@ links:
    url: https://arxiv.org/abs/2211.00140
    
 url_pdf: ''
-url_code: ''
+url_code: 'https://github.com/OPTAMI/OPTAMI/blob/main/OPTAMI/second_order/damped_newton.py'
 url_dataset: ''
 url_poster: ''
 url_project: ''

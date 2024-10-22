@@ -52,11 +52,11 @@ links:
 url_pdf: ''
 url_code: ''
 url_dataset: ''
-url_poster: ''
+url_poster: 'https://iclr.cc/virtual/2024/poster/17803'
 url_project: ''
 url_slides: ''
 url_source: 'https://openreview.net/forum?id=otU31x3fus'
-url_video: ''
+url_video: 'https://iclr.cc/virtual/2024/poster/17803'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
