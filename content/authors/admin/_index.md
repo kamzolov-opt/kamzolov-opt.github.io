@@ -71,7 +71,7 @@ education:
       text: 'Read Thesis'
       url: 'https://example.com'
       
-  - area: Master of Science in Operations Research, Combinatorics and Optimization (ORCO)
+  - area: Master of Science in Operations Research, Combinatorics and Optimization [https://orco.imag.fr](ORCO)
     institution: University of Grenoble Alpes
     date_start: 2017-09-01
     date_end: 2018-07-16
