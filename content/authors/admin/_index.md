@@ -219,4 +219,3 @@ I am a researcher working on optimization methods, machine learning, and various
 Currently, I am on the job market. I am looking for an assistant professor, researcher and postdoc positions. Also, I am interested in some research visits and collaboration.
 
 My last position was a Research Associate at the Mohamed bin Zayed University of Artificial Intelligence ([MBZUAI](https://mbzuai.ac.ae)). I was working at the Optimization and Machine Learning Lab ([OptML Lab](https://optmllab.github.io)) under the supervision of Prof. [Martin Takáč](https://scholar.google.com/citations?user=qKQD-2cAAAAJ&hl=en). 
-
