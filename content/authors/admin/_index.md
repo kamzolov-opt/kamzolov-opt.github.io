@@ -62,31 +62,31 @@ interests:
 
 education:
   - area: Ph.D. in Mathematical Modelling, Numerical Methods and Program Complexes
-    institution: Moscow Institute of Physics and Technology
+    institution: Moscow Institute of Physics and Technology (MIPT), Moscow, Russia.
     date_start: 2018-09-01
     date_end: 2021-07-16
     summary: |
       Supervised by Prof. Alexander Gasnikov. Department of Applied Mathematics and Informatics (DAMI). Moscow, Russia.
       
   - area: Master of Science in Operations Research, Combinatorics and Optimization (ORCO)
-    institution: University of Grenoble Alpes
+    institution: University of Grenoble Alpes (UGA), Grenoble, France.
     date_start: 2017-09-01
     date_end: 2018-07-16
     summary: |
-      Supervised by Prof. Anatoli Judistky. Grenoble, France.
+      Supervised by Prof. Anatoli Judistky.
     button:
       text: 'Link to the program'
       url: 'http://orco.imag.fr'
 
   - area: Master of Applied Mathematics and Physics
-    institution: Moscow Institute of Physics and Technology
+    institution: Moscow Institute of Physics and Technology (MIPT), Moscow, Russia.
     date_start: 2016-09-01
     date_end: 2018-07-16
     summary: |
-      Supervised by Prof. Alexander Gasnikov. Department of Control and Applied Mathematics (DCAM). Moscow, Russia.
+      Supervised by Prof. Alexander Gasnikov. Department of Control and Applied Mathematics (DCAM). 
 
   - area: Bachelor of Applied Mathematics and Physics
-    institution: Moscow Institute of Physics and Technology
+    institution: Moscow Institute of Physics and Technology (MIPT), Moscow, Russia.
     date_start: 2012-09-01
     date_end: 2016-07-16
     summary: | 
