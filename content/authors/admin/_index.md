@@ -70,6 +70,17 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
+      
+  - area: Master of Science in Operations Research, Combinatorics and Optimization (ORCO)
+    institution: University of Grenoble Alpes
+    date_start: 2017-09-01
+    date_end: 2018-07-16
+    summary: |
+      
+    button:
+      text: 'Link to the program'
+      url: 'http://orco.imag.fr'
+
   - area: Master of Applied Mathematics and Physics
     institution: Moscow Institute of Physics and Technology
     date_start: 2016-09-01
