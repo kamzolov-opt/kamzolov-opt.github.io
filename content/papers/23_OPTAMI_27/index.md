@@ -58,10 +58,10 @@ url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
-#image:
-#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-#  focal_point: ''
-#  preview_only: false
+image:
+  caption: 'Logistic Regression for a9a dataset from the starting point x0 = 3e, where the regularizer $\mu= 1e−4$ and e is a vector of all ones.'
+  focal_point: ''
+  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
