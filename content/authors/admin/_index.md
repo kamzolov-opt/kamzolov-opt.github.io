@@ -61,22 +61,19 @@ interests:
   - Zero-order Methods
 
 education:
-  - area: PhD Artificial Intelligence
+  - area: Ph.D. in Mathematical Modelling, Numerical Methods and Program Complexes
     institution: Moscow Institute of Physics and Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2018-09-01
+    date_end: 2021-07-16
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+      Supervised by Prof. Alexander Gasnikov. Department of Applied Mathematics and Informatics (DAMI). Moscow, Russia.
       
   - area: Master of Science in Operations Research, Combinatorics and Optimization [https://orco.imag.fr](ORCO)
     institution: University of Grenoble Alpes
     date_start: 2017-09-01
     date_end: 2018-07-16
     summary: |
-      Supervised by [Prof Anatoli Judistky](https://scholar.google.com/citations?user=UcOYXXYAAAAJ)
+      Supervised by Prof. Anatoli Judistky. Grenoble, France.
     button:
       text: 'Link to the program'
       url: 'http://orco.imag.fr'
@@ -86,14 +83,14 @@ education:
     date_start: 2016-09-01
     date_end: 2018-07-16
     summary: |
-      Department of Control and Applied Mathematics (DCAM)
+      Supervised by Prof. Alexander Gasnikov. Department of Control and Applied Mathematics (DCAM). Moscow, Russia.
 
   - area: Bachelor of Applied Mathematics and Physics
     institution: Moscow Institute of Physics and Technology
     date_start: 2012-09-01
     date_end: 2016-07-16
     summary: | 
-     Department of Control and Applied Mathematics (DCAM)
+      Supervised by Prof. Alexander Gasnikov. Department of Control and Applied Mathematics (DCAM). Moscow, Russia.
       
 work:
   - position: Director of Cloud Infrastructure
