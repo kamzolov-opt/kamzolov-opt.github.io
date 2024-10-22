@@ -104,17 +104,14 @@ work:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+  - position: Research Assistant
+    company_name: Moscow Institute of Physics and Technology
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2014
+    date_end: 2016
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      "Laboratory of Structural Methods of Data Analysis in Predictive Modeling (PreMoLab), Moscow Institute of Physics and Technology [https://mipt.ru](MIPT), Moscow, Russia. Supervisor: [https://scholar.google.com/citations?user=AmeE8qkAAAAJ&hl=en](Alexander Gasnikov). Head: [https://scholar.google.com/citations?user=edIy5-0AAAAJ&hl=en](Vladimir Spokoiny)."
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
