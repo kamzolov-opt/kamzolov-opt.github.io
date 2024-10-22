@@ -98,7 +98,7 @@ work:
     company_url: ''
     company_logo: ''
     date_start: 2021-10-02
-    date_end: 2024-10-01
+    date_end: 2024-10-02
     summary: |
       Optimization and Machine Learning Lab (OptML Lab), Machine Learning Department. Supervisor: Martin Takáč.
       
