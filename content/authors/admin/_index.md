@@ -133,18 +133,15 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Coffee
+      - name: ☕️ Coffee
         description: ''
         percent: 100
-        icon: ☕️
-      - name: Yachting
+      - name: ⛵ Yachting
         description: ''
         percent: 100
-        icon: ⛵
-      - name: Music
+      - name: 🎧 Music
         description: ''
         percent: 80
-        icon: 🎧
 
 languages:
   - name: English
