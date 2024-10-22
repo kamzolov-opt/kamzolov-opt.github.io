@@ -93,6 +93,24 @@ education:
       Supervised by Prof. Alexander Gasnikov. Department of Control and Applied Mathematics (DCAM). Moscow, Russia.
       
 work:
+  - position: Co-Advisor of the Research Group
+    company_name: Moscow Institute of Physics and Technology (MIPT), Moscow, Russia.
+    company_url: ''
+    company_logo: ''
+    date_start: 2018-09-01
+    date_end: 2019-09-01
+    summary: |
+      Local co-advisor of the Group of Visiting Professor Peter Richtárik on Randomized Algorithms for Distributed Optimization Problems. Supervisor: Peter Richtárik.
+      
+  - position: Lecturer
+    company_name: Moscow Institute of Physics and Technology (MIPT), Moscow, Russia.
+    company_url: ''
+    company_logo: ''
+    date_start: 2018-09-01
+    date_end: 2019-09-01
+    summary: |
+      Department of Applied Mathematics and Informatics. Reading lectures for a course on "Optimization Methods".
+      
   - position: Teaching Fellow
     company_name: Moscow Institute of Physics and Technology (MIPT), Moscow, Russia.
     company_url: ''
