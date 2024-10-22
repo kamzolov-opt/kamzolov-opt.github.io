@@ -68,7 +68,7 @@ education:
     summary: |
       Supervised by Prof. Alexander Gasnikov. Department of Applied Mathematics and Informatics (DAMI). Moscow, Russia.
       
-  - area: Master of Science in Operations Research, Combinatorics and Optimization [https://orco.imag.fr](ORCO)
+  - area: Master of Science in Operations Research, Combinatorics and Optimization (ORCO)
     institution: University of Grenoble Alpes
     date_start: 2017-09-01
     date_end: 2018-07-16
