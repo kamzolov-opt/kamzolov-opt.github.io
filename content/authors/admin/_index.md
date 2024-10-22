@@ -93,6 +93,42 @@ education:
       Supervised by Prof. Alexander Gasnikov. Department of Control and Applied Mathematics (DCAM). Moscow, Russia.
       
 work:
+  - position: Research Associate
+    company_name: Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), Abu Dhabi, UAE.
+    company_url: ''
+    company_logo: ''
+    date_start: 2021-10-02
+    date_end: 2024-10-01
+    summary: |
+      Optimization and Machine Learning Lab (OptML Lab), Machine Learning Department. Supervisor: Martin Takáč.
+      
+  - position: Senior Researcher
+    company_name: Moscow Institute of Physics and Technology (MIPT), Moscow, Russia.
+    company_url: ''
+    company_logo: ''
+    date_start: 2020-09-01
+    date_end: 2021-09-01
+    summary: |
+      Department of Mathematical Basis of Control. Supervisor: Alexander Gasnikov.
+      
+  - position: Junior Researcher
+    company_name: Moscow Institute of Physics and Technology (MIPT), Moscow, Russia.
+    company_url: ''
+    company_logo: ''
+    date_start: 2018-09-01
+    date_end: 2020-09-01
+    summary: |
+      Laboratory of Numerical Methods of Applied Structural Optimization. Head: Yury Evtushenko.
+  
+  - position: Teaching Fellow
+    company_name: Moscow Institute of Physics and Technology (MIPT), Moscow, Russia.
+    company_url: ''
+    company_logo: ''
+    date_start: 2018-09-01
+    date_end: 2020-09-01
+    summary: |
+      Department of Mathematical Basis of Control. Teaching a course on "Optimization Methods".  
+
   - position: Co-Advisor of the Research Group
     company_name: Moscow Institute of Physics and Technology (MIPT), Moscow, Russia.
     company_url: ''
