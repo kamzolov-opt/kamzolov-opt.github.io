@@ -214,7 +214,7 @@ languages:
 
 ## About Me
 
-I am a researcher, working on optimization methods, machine learning and different applications. The main focus of the research is implementable second-order, higher-order, and Quasi-Newton methods for convex and non-convex optimization. Also, I am interested in adaptive stochastic methods, distributed optimization, federated learning, and various applications. 
+I am a researcher working on optimization methods, machine learning, and various applications. The main focus of the research is implementable second-order, higher-order, and Quasi-Newton methods for convex and non-convex optimization. Also, I am interested in adaptive stochastic methods, distributed optimization, federated learning, and various applications. 
 
 Currently, I am on the job market. I am looking for an assistant professor, researcher and postdoc positions. Also, I am interested in some research visits and collaboration.
 
