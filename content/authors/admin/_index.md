@@ -214,4 +214,9 @@ languages:
 
 ## About Me
 
-Dmitry Kamzolov is a Research Associate at the Mohamed bin Zayed University of Artificial Intelligence ([MBZUAI](https://mbzuai.ac.ae)). He is working at the Optimization and Machine Learning Lab ([OptML Lab](https://optmllab.github.io)) under the supervision of Prof. [Martin Takáč](https://scholar.google.com/citations?user=qKQD-2cAAAAJ&hl=en). The main focus of the research is implementable second-order, higher-order, and Quasi-Newton methods for convex and non-convex optimization. Also, he has interest in adaptive stochastic methods, distributed optimization, federated learning, and various applications.
+I am a researcher, working on optimization methods, machine learning and different applications. The main focus of the research is implementable second-order, higher-order, and Quasi-Newton methods for convex and non-convex optimization. Also, I am interested in adaptive stochastic methods, distributed optimization, federated learning, and various applications. 
+
+Currently, I am on the job market. I am looking for an assistant professor, researcher and postdoc positions. Also, I am interested in some research visits and collaboration.
+
+My last position was a Research Associate at the Mohamed bin Zayed University of Artificial Intelligence ([MBZUAI](https://mbzuai.ac.ae)). I was working at the Optimization and Machine Learning Lab ([OptML Lab](https://optmllab.github.io)) under the supervision of Prof. [Martin Takáč](https://scholar.google.com/citations?user=qKQD-2cAAAAJ&hl=en). 
+
