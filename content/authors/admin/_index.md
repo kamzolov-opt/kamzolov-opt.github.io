@@ -139,16 +139,16 @@ skills:
     items:
       - name: Coffee
         description: ''
-        percent: 60
-        icon: coffee
+        percent: 100
+        icon: ☕️
       - name: Yachting
         description: ''
         percent: 100
-        icon: yacht
+        icon: ⛵
       - name: Music
         description: ''
         percent: 80
-        icon: vinyl
+        icon: 🎧
 
 languages:
   - name: English
