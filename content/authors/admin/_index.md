@@ -70,21 +70,17 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
+  - area: Master of Applied Mathematics and Physics
     institution: Moscow Institute of Physics and Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2016-09-01
+    date_end: 2018-07-16
     summary: |
-      GPA: 3.8/4.0
+      Department of Control and Applied Mathematics (DCAM)
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: Bachelor of Applied Mathematics and Physics
     institution: Moscow Institute of Physics and Technology
     date_start: 2012-09-01
-    date_end: 2016-07-15
+    date_end: 2016-07-16
     summary: | 
      Department of Control and Applied Mathematics (DCAM)
       
