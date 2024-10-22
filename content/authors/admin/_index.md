@@ -93,35 +93,32 @@ education:
       Supervised by Prof. Alexander Gasnikov. Department of Control and Applied Mathematics (DCAM). Moscow, Russia.
       
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      
-  - position: Research Assistant
-    company_name: Moscow Institute of Physics and Technology
+  - position: Teaching Fellow
+    company_name: Moscow Institute of Physics and Technology (MIPT), Moscow, Russia.
     company_url: ''
     company_logo: ''
     date_start: 2016-09-01
     date_end: 2017-09-01
     summary: |
-      "Laboratory of Advanced Combinatorics and Network Applications, Moscow Institute of Physics and Technology (MIPT), Moscow, Russia. Supervisor: Alexander Gasnikov. Head: Andrei Raigorodskii.
+      Department of Mathematical Basis of Control. Teaching a course on "Optimization Methods".
+      
+  - position: Research Assistant
+    company_name: Moscow Institute of Physics and Technology (MIPT), Moscow, Russia.
+    company_url: ''
+    company_logo: ''
+    date_start: 2016-09-01
+    date_end: 2017-09-01
+    summary: |
+      Laboratory of Advanced Combinatorics and Network Applications. Supervisor: Alexander Gasnikov. Head: Andrei Raigorodskii.
 
   - position: Research Assistant
-    company_name: Moscow Institute of Physics and Technology
+    company_name: Moscow Institute of Physics and Technology (MIPT), Moscow, Russia.
     company_url: ''
     company_logo: ''
     date_start: 2014-09-01
     date_end: 2016-09-01
     summary: |
-      Laboratory of Structural Methods of Data Analysis in Predictive Modeling (PreMoLab), Moscow Institute of Physics and Technology (MIPT), Moscow, Russia. Supervisor: Alexander Gasnikov. Head: Vladimir Spokoiny.
+      Laboratory of Structural Methods of Data Analysis in Predictive Modeling (PreMoLab). Supervisor: Alexander Gasnikov. Head: Vladimir Spokoiny.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
