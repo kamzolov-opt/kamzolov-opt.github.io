@@ -76,7 +76,7 @@ education:
     date_start: 2017-09-01
     date_end: 2018-07-16
     summary: |
-      
+      Supervised by [Prof Anatoli Judistky](https://scholar.google.com/citations?user=UcOYXXYAAAAJ)
     button:
       text: 'Link to the program'
       url: 'http://orco.imag.fr'
